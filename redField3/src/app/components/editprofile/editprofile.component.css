@@ -1,0 +1,20 @@
+.userForm {
+  margin: 30px;
+}
+.text {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 200;
+  letter-spacing: 0.2rem;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+.ui{
+  margin-top: 90px;
+  width: 700px;
+  background: rgb(122, 142, 158);
+  height: 75px;
+  left: 35vw;
+}
+
